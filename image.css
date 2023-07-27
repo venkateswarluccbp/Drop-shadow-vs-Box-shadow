@@ -7,12 +7,14 @@
     align-items: center;
     
 }
-
+ 
+     /* BOX - SHADOW */
 /* .img{
     width: 400px;
     box-shadow: 18px 18px 18px red;
 } */
 
+     /* dROP - SHADOW */
 .img{
     width: 400px;
     filter: drop-shadow(18px 18px 18px #ff0055);
