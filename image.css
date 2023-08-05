@@ -28,7 +28,8 @@
 
 }
 .like{
-    color: #0a0909;
+    
+    color: #fff;
     background: rgb(191, 232, 9);
     font-size: 30px;
     width: 160px;
@@ -40,10 +41,13 @@
 .like:hover{
     background: #05f691;
     transition: 0.4s ease-out;
+    color: #0a0909;
 }
 
 .dislike{
-    color: #0a0909;
+    
+    color: #fff;
+
     background: rgb(91, 9, 232);
     font-size: 30px;
     width: 160px;
@@ -54,4 +58,5 @@
 .dislike:hover{
     background: #f60505;
     transition: 0.4s ease-out;
+    color: #0a0909;
 }
